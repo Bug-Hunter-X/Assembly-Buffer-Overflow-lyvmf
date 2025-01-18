@@ -1,0 +1,1 @@
+This repository contains an example of a buffer overflow vulnerability in assembly code and its solution. The bug is caused by an unchecked array index in a memory access instruction, which can lead to overwriting adjacent memory regions.  The solution demonstrates how to add bounds checking to prevent this vulnerability.
